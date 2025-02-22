@@ -17,36 +17,58 @@ Features
 Technologies Used
 
 HTML5 - Structure of the webpage
+
 CSS3 - Styling and layout
+
 FontAwesome - Icons for social media
 
 
+
 Folder Structure
+
 /Project-1
 │── index.html     # Main HTML file
+
 │── project.css    # Stylesheet
+
 │── avtar.png      # Profile image
+
 │── README.md      # Project description
+
 
 How to Use?
 
 1.Clone the repository
+
 git clone https://github.com/your-username/project-1.git
+
 2.Open index.html in your browser.
 
+
 Live Demo
+
 You can host this project using GitHub Pages, Netlify, or Vercel and add the link here.
+
 
 Future Enhancements
 
+
 Add dark mode for better accessibility.
+
 Include a projects section to showcase past work.
+
 Improve responsiveness for mobile users.
+
+
 Contributing
+
 Feel free to fork this repository, make changes, and submit a pull request.
 
+
 License
+
 This project is open-source under the MIT License.
+
 
 
 
