@@ -5,9 +5,13 @@ This project is a simple yet elegant Personal Portfolio Website designed using H
 Features
 
 ✅ Responsive Navigation Bar - Includes a logo, navigation links, and a search bar.
+
 ✅ Hero Section - Features a welcome message with a brief introduction and a profile image.
-✅ Call-to-Action Button - A "Chat With Me" button to encourage engagement.
+
+✅ Call-to-Action Button - A "Chat With Me" button to encourage engagement0.
+
 ✅ Footer with Social Links - Displays links to GitHub, Instagram, and LinkedIn.
+
 ✅ Hover Effects - Interactive effects on buttons and navigation links for a better user experience.
 
 Technologies Used
